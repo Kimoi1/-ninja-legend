@@ -1,4 +1,3 @@
-
 local win = Flux:Window("PREVIEW", "Baseplate", Color3.fromRGB(255, 110, 48), Enum.KeyCode.LeftControl)
 local tab = win:Tab("Tab 1", "http://www.roblox.com/asset/?id=6023426915")
 tab:Button("Kill all", "This function may not work sometimes and you can get banned.", function()
